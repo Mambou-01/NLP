@@ -1,0 +1,2 @@
+# NLP
+Le traitement automatique du langage naturel (TALN), ou traitement automatique de la langue naturelle, ou encore traitement automatique des langues (TAL) est un domaine multidisciplinaire impliquant la linguistique, l'informatique et l'intelligence artificielle, qui vise à créer des outils de traitement de la langue naturelle pour diverses applications. Il ne doit pas être confondu avec la linguistique informatique, qui vise à comprendre les langues au moyen d'outils informatiques.
