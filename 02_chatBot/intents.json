@@ -76,7 +76,7 @@
             "Combien de temps prend la livraison",
             "Quand dois-je prendre ma livraison"
         ],
-        "reponse": [
+        "reponses": [
             "La livraison prend 2-4 jours",
             "l 'expédition prend 2-4 jours"
         ]
