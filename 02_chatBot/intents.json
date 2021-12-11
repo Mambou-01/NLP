@@ -1,0 +1,84 @@
+{
+    "intents": [{
+        "tag": "salutation",
+        "patterns": [
+            "Bonjour",
+            "Salut",
+            "Comment allez-vous",
+            "Allô"
+        ],
+        "reponses": [
+            "Salut",
+            "Merci pour votre visite",
+            "salut, que puis-je faire pour vous",
+            "salut, comment puis-je aider"
+        ]
+    }, {
+        "tag": "au revoir",
+        "patterns": ["Salut",
+            "Au revoir",
+            "A bientôt",
+            "A plus",
+            "Bonne journée",
+            "A la prochaine",
+            "A plus tard"
+        ],
+        "reponses": [
+            "A plus tard, merci de votre visite",
+            "Bonne journée",
+            "Au revoir! reviens bientôt"
+        ]
+
+    }, {
+        "tag": "remercier",
+        "patterns": [
+            "Remercier", "merci", "Je te remercie beaucoup",
+            "Merci beaucoup", "Je vous remercie infiniment",
+            "Merci bien",
+            "C'est très aimable à vous",
+            "C'est très gentil à vous",
+            "Oh, merci", "Tu est vraiment très gentille", "Un grand merci"
+        ],
+        "reponses": [
+            "Il n'y a pas de quoi", "Je vous en prie", "Je t'en prie",
+            "C'est tout à fait normal", "C'est tout à fait naturel",
+            "Avec plaisir", "C'est un plaisir", "Merci infiniment",
+            "C'est très aimable à vous", "Heurux de pourvoir vous aider"
+        ]
+
+    }, {
+        "tag": "articles",
+        "patterns": [
+            "Quel article as-tu?",
+            "Quels types d'articles y a-t-il?",
+            "Que vendez-vous?"
+
+        ],
+        "reponses": [
+            "Nous vendons des ordinateurs portables"
+
+        ]
+    }, {
+        "tag": "Paiement",
+        "patterns": [
+            "Prenez-vous la carte de crédit?",
+            "Prenez-vous mastercard?",
+            "Puis-je payer avec paypal?",
+            "Prenez-vous uniquement de l'argent liquide?",
+            "Prenez-vous uniquement  l'espèce"
+        ],
+        "reponses": [
+            "Nous acceptons visa, mastercard, paypal"
+        ]
+    }, {
+        "tag": "livraison",
+        "patterns": [
+            "Combien de temps prend la livraison",
+            "Quand dois-je prendre ma livraison"
+        ],
+        "reponse": [
+            "La livraison prend 2-4 jours",
+            "l 'expédition prend 2-4 jours"
+        ]
+    }]
+}
